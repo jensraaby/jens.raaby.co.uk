@@ -1,0 +1,33 @@
+---
+comments: true
+date: 2011-05-24 08:30:49
+layout: post
+slug: an-update
+title: An update
+wordpress_id: 214
+categories:
+- General
+---
+
+I'm a little behind on my web design blog posts, but don't worry, there are drafts in progress.
+
+At the moment I am in the run up to my last exam, a 3 hour Real Time Systems paper which is worth approximately 9% of my degree - yikes!
+
+Consequently any blogging over the next few weeks will be procrastination. I am working on a few posts at the moment:
+
+
+
+	
+  * The website redesign
+
+	
+  * Railway photography tutorial/guide
+
+	
+  * Reflections on using Windows after adjusting to OS X
+
+	
+  * iPad drawing and art
+
+
+Hopefully they will be posted sooner rather than later.

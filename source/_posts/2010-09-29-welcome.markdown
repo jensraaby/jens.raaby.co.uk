@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2010-09-29 16:49:41
+layout: post
+slug: welcome
+title: Welcome
+wordpress_id: 22
+categories:
+- General
+---
+
+Please visit the photography and web design pages to find out about previous work.
+This site design is only temporary, pending a custom design.

@@ -1,0 +1,32 @@
+---
+comments: true
+date: 2011-06-19 17:35:51
+layout: post
+slug: the-inevitable-phone-upgrade
+title: The inevitable phone upgrade
+wordpress_id: 231
+categories:
+- Computing
+- General
+---
+
+I have a rule which has served me well the past ten years: only buy a new mobile phone when the previous one breaks or wears out. This has probably saved me hundreds of pounds, and I've got used to the simplicity of a candy-bar phone which lasts for days if not weeks without needing charging. My last purchase was a Sony Ericsson K750i, back in 2006.
+<!-- more -->
+
+Even then, the more advanced models featured a primitive extensibility (read: 3rd party apps), without the massive collections of free/payware apps that all the main platforms feature today. My choice at the time was reduced to a Samsung 'slider' and the Sony Ericsson, which both had cameras, music players and basic internet browsing capability. My hope was that with one device in my pocket, I would not miss my camera or walkman (I was pretty much tired of cassettes by then - I had never had an MP3 player, and CD-RWs were not that reliable). This phone was a massive leap from the previous models I had used.
+
+My first mobile was a second-hand, slightly battered Sony CMD-J70. This basically did the job; I was contactable and had the ability to phone home when I was stood waiting for a bus for 2 hours. It had a couple of simple games (like throwing bananas at evil monkeys) but that was about it.
+
+When the Sony died, I moved on to one of the classics of the last decade - a Nokia 3310. When I began at my last school, these were all the rage. When I acquired mine 3 years after they had gone out of fashion, it was a rather bulky, though reliable, phone. It had the 'Snake' game, and that was about all you could do. The ringtones were more basic than the old Sony (which admittedly was a more recently developed phone) but again I had something which did its job and lasted around a week between charges.
+
+The battery unit for the Nokia was the only thing which wore out. I still have the phone lying around somewhere, but it's unlikely to ever return to my pockets. In 2006 I decided I would rather get a new phone than a new battery (which would cost almost as much), and the salesperson in the shop essentially persuaded me to buy the Sony Ericsson K750i, by then superseded and probably being pushed by the retailers in order to clear out stock.
+
+I've been happy with this model for nearly all the time I've owned it. The camera was not really up to much, but I made do. The music player is atrocious, but I managed to fit a 4GB memory card and fill it with plenty of music. Navigating this collection was a nightmare, but I was stubborn and refused to purchase a separate music player. This phone, while never considered a 'smart' model, did allow installing Java applications. When mobile internet became reasonably affordable, I frequently turned to Opera's mobile version and Google's native email client.
+
+Alas, now my almost 5 year old device has given up the ghost. While out cycling in the Yorkshire countryside, water managed to get in to the joystick used for navigation. This part of the phone is notorious; many other K750i owners experienced the same problem, though generally they moved on to newer models several years ago. Mine waited until this year to give up, leaving me with no ability to navigate up and down lists (contacts, text messages, practically everything else on the phone).
+
+Now I am left using a spare phone, a very basic Sony Ericsson J120i, which was bought with the sole purpose of housing extra sim cards when abroad. This will make do as a phone and not much else. No apps, no internet, pretty much nothing which my first mobile 9 years ago didn't have.
+
+Of course, that means I want a new phone. The problem with the market today is that all the devices have a shorter design life. The original iPhone was released in 2007 and had no 3rd party apps. Hardly anyone uses them now, and the successor (the 3G) is now being obsoleted with no further software upgrades. The Android phones have an even shorter lifespan; in order to keep releasing new models the manufacturers effectively neglect the older models and don't release software upgrades. Even Microsoft had difficulty introducing the first updates to its new Windows Phone 7 operating system. The problem with WP7 is instead related to the lack of developer interest - far fewer apps exist so far. It's not that I want quantity, but I have my doubts about jumping on this bandwagon just yet.
+
+I am almost tied in to the Apple eco-system, now owning an iMac, an iPad and an iPod touch and many apps for those platforms. Therefore the natural choice of phone for me would be an iPhone. The problem is that the current model is approaching its 1st anniversary. Normally Apple take the opportunity to announce a new model in the Jun developers' conference (WWDC) but this year the announcements were all about software. I am hoping the next model will be released soon. It would be unthinkable for a new version to come out after Christmas, so I am hoping for at least a September release. 3 months on this old Sony Ericsson will certainly be a challenge, and I hope that an iPhone would last at as long as my old K750i. But in these days of non-replaceable batteries and rapid innovation I don't know if I would be able to keep to my rule of not replacing a phone until it breaks. I might even have to stray into the world of contracts or buying with the intent to sell before things wear out.
