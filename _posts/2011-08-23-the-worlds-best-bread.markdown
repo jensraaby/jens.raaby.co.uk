@@ -10,7 +10,7 @@ categories:
 - General
 ---
 
-{% img http://jens.raaby.co.uk/wp-content/uploads/2011/08/20110823-BestBread-6697-300x200.jpg [300] [200] [Jim Lahey's bread recipe tried and tested [A first attempt at the bread]] %}
+<img src="http://jens.raaby.co.uk/wp-content/uploads/2011/08/20110823-BestBread-6697-300x200.jpg" width=300 height=200 alt="Jim Lahey's bread recipe tried and tested" title="A first attempt at the bread" />
 
 While I was in Denmark earlier this month I ended up watching the morning magazine programme on the equivalent to ITV. One of the lead stories that day was on how to bake the world's best bread. I am quite fussy when it comes to bread; one could describe me as a bread geek.
 
@@ -24,7 +24,7 @@ A third quality of bread which I consider is the taste. I don't like my standard
 
 You might by now be wondering what the recipe I use for day-to-day bread is. I must admit, I don't like spending large amounts of time kneading. Therefore I often use a bread machine to do the mixing and then finish rising and baking in a separate tin (this gives a far better taste, crust and shape than the machine's low temperature baking). One recipe I tried and hold in high regard is one from the Guardian by Felicity Cloake: [http://www.guardian.co.uk/lifeandstyle/wordofmouth/2010/jun/10/how-to-bake-wholemeal-bread](http://www.guardian.co.uk/lifeandstyle/wordofmouth/2010/jun/10/how-to-bake-wholemeal-bread). This method requires repeated kneading for short periods, but creates a really good loaf. The standard loaf I make is similar, using sunflower oil instead of butter, and I vary between using molasses sugar and plain white sugar. I don't normally add the vitamin C tablet, but it does create a slightly more open texture with wholemeal flour.
 
-{% img http://jens.raaby.co.uk/wp-content/uploads/2011/08/20110823-BestBread-6695-300x200.jpg [300] [200] [Jim Lahey's bread recipe tried and tested [A first attempt at the bread]] %}
+<img src="http://jens.raaby.co.uk/wp-content/uploads/2011/08/20110823-BestBread-6695-300x200.jpg" width=300 height=200 alt="Jim Lahey's bread recipe tried and tested" title="Bread texture" />
 
 Today I baked the "[World's Best Bread](http://www.sullivanstreetbakery.com/recipes)" for the first time. I say today, but the process began last night with the initial assembly of ingredients for the twelve hour resting period. This morning the dough was full of air bubbles and had grown considerably in size. The next phase of rising involved dusting the folded dough with flour and a little textural supplement (in my case poppy seeds) and placing it on a tea towel for a further hour or two. As I was slightly time constrained I limited the time to an hour, but the dough had risen substantially enough in that time and did not spring back after poking. In the mean time I took the phenolic handle off my big Le Creuset (see [this post](http://jens.raaby.co.uk/journal/2011/02/cooking-with-cast-iron/)) and preheated it to the maximum oven temperature.
 
