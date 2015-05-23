@@ -13,4 +13,4 @@ I have recently uploaded a collection of rail photographs from the last year or 
 
 [View the latest rail photos](http://raaby.co.uk/photos/)
 
-<img src="http://raaby.co.uk/photos/var/resizes/railways/trains-dk/dk-dmu/20100816-SwedenAugust2010-6517.jpg?m=1291846758" alt="DSB ICE-TD EuroCity" />
+![DSB ICE-TD EuroCity](http://raaby.co.uk/photos/var/resizes/railways/trains-dk/dk-dmu/20100816-SwedenAugust2010-6517.jpg?m=1291846758)
