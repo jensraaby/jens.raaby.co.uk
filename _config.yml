@@ -5,9 +5,10 @@ timezone: Europe/London
 
 # Kasper settings
 name: Jens Raaby
-description: Welcome!
-meta_description: "What is this?"
+description: Welcome
+meta_description: "You’ve reached the online home of Jens Raaby, a Software Engineer at the BBC and former MSc student at the University of Copenhagen."
 logo: false
+google_analytics: 'UA-49290594-1'
 
 
 # Other:
