@@ -9,6 +9,12 @@ url: "http://jens.raaby.co.uk" # the base hostname & protocol for your site
 twitter_username: jraaby
 github_username:  jensraaby
 permalink: /journal/:year/:month/:title/
+paginate: 15
 
 # Build settings
 markdown: kramdown
+
+# Jekyll config
+gems:
+  - jekyll-paginate
+  - jekyll-feed
