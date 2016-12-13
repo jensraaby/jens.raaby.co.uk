@@ -52,7 +52,7 @@ I often start a website design in Photoshop, thinking entirely in terms of graph
 
 My eyes hurt a lot after reading many websites. Perhaps this is a result of using a 27" screen, which in general makes things look smaller than on other devices and leads to a bit of eye strain. I think there is a certain fashion for small type on the web and I often have things enlarged a few clicks - some websites look awful when you do this.
 
-From the markup it is relatively straightforward to develop some simple typography rules. These can range from setting up a [vertical rhythm](http://24ways.org/2006/compose-to-a-vertical-rhythm) to simply going through the elements in the markup and setting them so they 'look good' to the eye. I'm curious to experiment with [modular scale](http://www.alistapart.com/articles/more-meaningful-typography/) on this occasion, to see if it creates a better feel than guesswork or off-the-shelf font styles (such as [Blueprint CSS](http://www.blueprintcss.org/) or [Yahoo font-reset](http://developer.yahoo.com/yui/3/cssfonts/)).
+From the markup it is relatively straightforward to develop some simple typography rules. These can range from setting up a [vertical rhythm](http://24ways.org/2006/compose-to-a-vertical-rhythm) to simply going through the elements in the markup and setting them so they 'look good' to the eye. I'm curious to experiment with [modular scale](http://www.alistapart.com/articles/more-meaningful-typography/) on this occasion, to see if it creates a better feel than guesswork or off-the-shelf font styles (such as [Blueprint CSS](http://www.blueprintcss.org/) or [Yahoo (YUI) font-reset](http://yuilibrary.com/yui/docs/cssfonts/)).
 
 
 ## Layout
