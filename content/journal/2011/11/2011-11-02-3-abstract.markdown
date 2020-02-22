@@ -1,0 +1,20 @@
+---
+comments: true
+date: 2011-11-02 22:25:05
+template: post
+draft: false
+slug: 3-abstract
+title: '#3 - Abstract'
+wordpress_id: 322
+category: iPad
+description: Trying to be abstract
+tags:
+- image-week
+- Sketch
+---
+
+Working as a programmer involves thinking at multiple levels of abstraction. You might be coding a web application, but at any one point it could be data modelling, presentational markup or low level architecture changes. Sometimes it is hard to think of something to draw or photograph. It shouldn't have to be a _real_ or obvious subject all the time. Therefore I just let my stylus wander and this is what came out.
+
+<!-- more -->
+
+[![20111102-221205.jpg](/wp-content/uploads/2011/11/20111102-221205.jpg)](/wp-content/uploads/2011/11/20111102-221205.jpg)

@@ -1,0 +1,15 @@
+---
+comments: true
+date: 2010-09-29 16:49:41
+template: post
+draft: false
+slug: welcome
+title: Welcome
+description: "Welcome to the blog"
+category: General
+tags:
+  - "General"
+---
+
+Please visit the photography and web design pages to find out about previous work.
+This site design is only temporary, pending a custom design.
