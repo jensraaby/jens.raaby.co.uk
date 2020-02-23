@@ -91,7 +91,7 @@
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
-/web-design/
+/pages/about/
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
@@ -100,7 +100,7 @@
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
-/pages/about/
+/web-design/
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
@@ -145,7 +145,7 @@
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/journal/2012/05/ipad-art
+/journal/2012/05/master-your-computer-learn-to-automate-tedium
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
@@ -154,7 +154,7 @@
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/journal/2012/05/master-your-computer-learn-to-automate-tedium
+/journal/2012/05/ipad-art
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
@@ -173,6 +173,24 @@
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
 /journal/2012/03/the-portable-machine-quandary
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-154d320d94a68ffa761e.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/journal/2011/10/one-year-on
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-154d320d94a68ffa761e.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/journal/2011/10/a-week-of-images-1
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
@@ -244,24 +262,6 @@
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/journal/2011/10/one-year-on
-  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </app-154d320d94a68ffa761e.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/journal/2011/10/a-week-of-images-1
-  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </app-154d320d94a68ffa761e.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
 /journal/2010/12/the-trap-of-the-blog
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
@@ -308,6 +308,15 @@
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
 /journal/2011/08/anniversary-a-digital-deluge
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-154d320d94a68ffa761e.js>; rel=preload; as=script
+  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
+  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/journal/2011/08/the-worlds-best-bread
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
@@ -515,15 +524,6 @@
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
 /journal/2012/01/tumbleweed
-  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </app-154d320d94a68ffa761e.js>; rel=preload; as=script
-  Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
-  Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/journal/2011/08/the-worlds-best-bread
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-117479406f6e61ad4793.js>; rel=preload; as=script
   Link: </commons-57af85ac3c336aa1aa39.js>; rel=preload; as=script
