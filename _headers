@@ -92,17 +92,6 @@
   Link: </component---src-templates-not-found-template-js-e10dd28dd4c766395789.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/photographs/
-  Link: </webpack-runtime-28abd04e64dce843881b.js>; rel=preload; as=script
-  Link: </styles-06a017114b17baab910a.js>; rel=preload; as=script
-  Link: </commons-22a9aa38a3c1b1ceb679.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-03e69efee7091953e321.js>; rel=preload; as=script
-  Link: </app-6228cec0eb9147f18b51.js>; rel=preload; as=script
-  Link: </styles-06a017114b17baab910a.js>; rel=preload; as=script
-  Link: </commons-22a9aa38a3c1b1ceb679.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-b4252210702e51345501.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/photographs/page-data.json>; rel=preload; as=fetch; crossorigin
 /web-design/
   Link: </webpack-runtime-28abd04e64dce843881b.js>; rel=preload; as=script
   Link: </styles-06a017114b17baab910a.js>; rel=preload; as=script
@@ -653,6 +642,17 @@
   Link: </component---src-templates-post-template-js-65db8278a3b0b24352b9.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/journal/2020/02/five-things-2/page-data.json>; rel=preload; as=fetch; crossorigin
+/photographs/
+  Link: </webpack-runtime-28abd04e64dce843881b.js>; rel=preload; as=script
+  Link: </styles-06a017114b17baab910a.js>; rel=preload; as=script
+  Link: </commons-22a9aa38a3c1b1ceb679.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-03e69efee7091953e321.js>; rel=preload; as=script
+  Link: </app-6228cec0eb9147f18b51.js>; rel=preload; as=script
+  Link: </styles-06a017114b17baab910a.js>; rel=preload; as=script
+  Link: </commons-22a9aa38a3c1b1ceb679.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-b4252210702e51345501.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/photographs/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/general
   Link: </webpack-runtime-28abd04e64dce843881b.js>; rel=preload; as=script
   Link: </styles-06a017114b17baab910a.js>; rel=preload; as=script
