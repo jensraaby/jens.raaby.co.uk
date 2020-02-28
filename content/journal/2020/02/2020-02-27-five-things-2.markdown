@@ -5,7 +5,7 @@ title:  "Five things - 27/02/2020"
 date:   2020-02-27 20:42:00
 category: fivethings
 slug: five-things-2
-description: ""
+description: "Wherein I discuss a TV miniseries, a podcast, this site, what makes good managers and another Aldi pick."
 ---
 
 
@@ -13,7 +13,7 @@ description: ""
 ## 1. [Americast](https://www.bbc.co.uk/programmes/p07h19zz/episodes/downloads)
 
 This is a sibling podcast to what was Brexitcast - essentially a slightly irreverent discussion of a news topic with a few of the BBC's top correspondents.
-This year is the next US Presidential Election, and as I'm not usually following the pulse of US politics. This has been an interesting podcast to listen to over the past few weeks, drawing comparisons between Corbyn and Sanders, discussing the electoral system in the Democratic Party (explaining things like caucuses to primaries to Super Tuesday), discussing impeachment and Bloomberg. Worth a listen.
+This year is the next US Presidential Election, and as I'm not usually following the pulse of US politics it's been informing, educating and entertaining me. This has been an interesting podcast to listen to over the past few weeks, drawing comparisons between Corbyn and Sanders, discussing the electoral system in the Democratic Party (explaining things like caucuses to primaries to Super Tuesday), discussing impeachment and Bloomberg etc.. Worth a listen.
 
 ## 2. [Chernobyl](https://www.imdb.com/title/tt7366338/)
 It's not often that a TV series grabs me like this one. It's made me look on the map for the nearest nuclear power station and consider how lucky we are that nuclear disasters are so rare. I can't imagine how it felt in the 1980s when the threat of Cold War lingered. This miniseries is definitely worth a watch if you haven't seen it yet. The cast is great, and the pacing is just about right. I'm glad they kept it to 5 episodes instead of spinning it out to 10.
@@ -32,5 +32,5 @@ Thanks for sharing [@davidcarboni](https://twitter.com/i/web/status/122870280183
 ## 5. Aldi's [Authentic Greek Yoghurt](https://www.aldi.co.uk/authentic-greek-yogurt-/p/073594075070500)
 ![Aldi Authentic Greek Yogurt](/assets/fivethings/2-yogurt.jpg)
 I've been trying to cut down on eating carbohydrates recently and that means finding foods that provide more of the other macronutrients.
-Greek yogurt is quite popular for its high protein content, but the most popular brand (Fage Total) has a reduced level of fat (5%). It still tastes great, but it's expensive. This alternative from Aldi is more like the yogurt I had in Greece - rich with fat (and protein) and with a rich creamy taste.
+Greek yogurt is quite popular for its high protein content, but the most popular brand (Fage Total) has a reduced level of fat (5%). It still tastes great, but it's expensive. This alternative from Aldi is more like the yogurt I had in Greece - high in fat (and protein) and with a rich creamy taste.
 I have it with fresh berries (raspberries and blackberries are good low sugar choices), sometimes adding milled linseed. It's also handy for cooking (soups, curries etc.).
