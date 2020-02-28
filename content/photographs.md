@@ -5,10 +5,11 @@ template: "page"
 
 A selection of photos are available in my online galleries. I will shortly be re-doing this website with a much better portfolio, however there are a few sites with my publicly available photos:
 	
-  * [Raaby.co.uk](http://raaby.co.uk/photos)
-
+  * [Raaby.co.uk](https://raaby.co.uk/photos)
 	
-  * [Flickr](http://www.flickr.com/photos/jensraaby)
+  * [Flickr](https://www.flickr.com/photos/jensraaby)
+
+  * [Instagram](https://www.instagram.com/jens_raaby/)
 
 
 I do photography for fun; it's a nice way to express myself creatively and get out and about.
