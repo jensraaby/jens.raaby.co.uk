@@ -5,7 +5,7 @@ title:  "Five things - 06/03/2020"
 date:   2020-03-06 19:00:00
 category: fivethings
 slug: five-things-3
-description: "Wherein I recommend some UK politics content, a tech conference and my favourite coffee shop"
+description: "Wherein I recommend some UK politics content, a tech conference and my favourite coffee shop."
 ---
 ## 1. [The Origins of Opera and the Future of Programming](https://blog.jessitron.com/2018/04/15/the-origins-of-opera-and-the-future-of-programming/)
 About a year ago I was very keen on this blog post and the accompanying talk and shared it with anyone who would listen.
