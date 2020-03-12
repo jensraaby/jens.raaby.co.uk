@@ -13,12 +13,12 @@ I'll kick this week's picks off with a favourite restaurant.
 I think I first went to Mildreds 5 years ago this week, when I was in London for QCon last time.
 I've since been back a number of times, most recently this week. My pictures of the food don't really do it justice, so I won't add them here - you can see their own ones on [Instagram](https://www.instagram.com/mildredsrestaurants/?hl=en).
 Every time I've eaten there I've been extremely impressed, and I'm not surprised they have a long waiting time in the evenings.
-I was impressed how little on the menu was non-vegan - it was limited to Halloumi, optional cheese on burgers, and dairy milk in coffee.
+I was surprised how little on the menu was non-vegan - it was limited to Halloumi, optional cheese on burgers, and dairy milk in coffee.
 
 Highlights for me were the [chick'n kebab with a preserved lemon marinade](https://www.instagram.com/p/B2gzRJhFoae/), and the chocolate cherry lava cake (the [picture here](https://www.instagram.com/p/B2wHJP7FM17/) is a slightly different recipe, but similar theme with the coconut cream and cherry).
 
 ## 2. [Paul Mason: The Budget showed Labour has won the spending debate – but a new economic model is needed](https://www.newstatesman.com/politics/economy/2020/03/budget-showed-labour-has-won-spending-debate-new-economic-model-needed)
-I started following Paul Mason a while ago. He's gone from being a public service broadcaster economics journalist to being a fervent Labour supporter, with lots of interesting ideas. I need to get back to reading [Postcapitalism](https://www.amazon.co.uk/PostCapitalism-Guide-Future-Paul-Mason/dp/1846147387)...
+I started following Paul Mason a while ago. He's gone from being a public service broadcaster economics journalist to being a quite a partisan Labour supporter, but with lots of interesting ideas. I need to get back to reading [Postcapitalism](https://www.amazon.co.uk/PostCapitalism-Guide-Future-Paul-Mason/dp/1846147387)...
 
 This week we had a new budget in the UK, the first since 2018.
 Lots of the press was lavishing praise on the govenment for spending some money, turning its back on austerity.
@@ -37,7 +37,7 @@ Last week I mentioned being at the QCon conference. This morning I had an email 
 
 There's a lot of hysteria about the virus at the moment. My local Aldi has got very low stock of a lot of products (all toilet paper and kitchen roll is gone, many fresh vegetables, minced beef, tinned veg, bread, and eggs are running low).
 
-This podcast was recommended by @ricburton and it is an interview with Amesh Adalja from Johns Hopkins.
+This podcast was recommended by [@ricburton](https://twitter.com/ricburton) and it is an interview with Amesh Adalja from Johns Hopkins.
 It's a good overview of this pandemic and how it compares with previous viral outbreaks. 
 I do feel somewhat reassured about it having listened to this, although it sounds like the health systems around the world aren't that prepared to deal with it.
 
@@ -58,8 +58,8 @@ Gogo Penguin do reference EST on their first album with the track "Seven Sons of
 That said, I do enjoy some of their music, and their latest track is [worth a listen](https://gogopenguin.lnk.to/GogoPenguin).
 
 Here's a couple of other good tracks that I picked out:
-* (Weird Cat)[https://open.spotify.com/track/5QJTodesVBIAGoh1QkgCNY]
-* (Hopopono)[https://open.spotify.com/track/1hW0VwYPGPzkz2CIXVIY78]
-* (Garden Dog Barbecue[https://open.spotify.com/track/1A4iI9Ho0OG0lhXiiiWKWm]
+* [Weird Cat](https://open.spotify.com/track/5QJTodesVBIAGoh1QkgCNY)
+* [Hopopono](https://open.spotify.com/track/1hW0VwYPGPzkz2CIXVIY78)
+* [Garden Dog Barbecue](https://open.spotify.com/track/1A4iI9Ho0OG0lhXiiiWKWm)
 
 Thanks to [Steven](https://twitter.com/stevebakh?lang=en) for recommending them to me about 5 years ago!
