@@ -55,6 +55,7 @@
 <url> <loc>https://jens.raaby.co.uk/photographs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/journal/2020/03/five-things-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/journal/2020/03/five-things-4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jens.raaby.co.uk/journal/2020/03/five-things-5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/tag/general</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/tag/phot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/tag/photo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -89,4 +90,5 @@
 <url> <loc>https://jens.raaby.co.uk/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/page/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jens.raaby.co.uk/page/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jens.raaby.co.uk/page/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
