@@ -15,14 +15,14 @@ I'll try and keep the number of serious things down a bit.
 Louisiana in Denmark is my favourite modern art gallery in the world, and during the lockdown it's good to fit some culture in your day.
 If you're interested in art, design, music, architecture or literature, there will probably be something here for you.
 There are series like ["Advice to the Young"](https://channel.louisiana.dk/series/advice-to-the-young) and ["Artists on One Work"](https://channel.louisiana.dk/series/one-work), but there's a tonne of content on there, so have a browse.
-Here's a few from some different media:
+Here's a few from some different artforms:
 * [David Byrne - When to Resist Technology](https://channel.louisiana.dk/video/david-byrne-when-resist-technology)
-* [Norman Foster - Striving for Simplicity](https://channel.louisiana.dk/video/norman-foster-striving-simplicity) - Stansted Airport, Reichstag, Apple Park, Millenium Bridge, Gherkin
+* [Norman Foster - Striving for Simplicity](https://channel.louisiana.dk/video/norman-foster-striving-simplicity)
 * [David Hockney - I Am a Space Freak](https://channel.louisiana.dk/video/david-hockney-i-am-space-freak)
 
 ## 2. [The Bureau](https://www.amazon.co.uk/Bureau-Season-English-Subtitled/dp/B01GKGRU64)
 
-Everyone needs a good box-set to get stuck into sometimes. A lot of the Netflix programmes seem designed to be binged on, but occassionally you want something more substantial, that warrants leaving a break between episodes to ponder things.
+Everyone needs a good box-set to get stuck into sometimes. A lot of the Netflix programmes seem designed to be binged on, but occasionally you want something more substantial, that warrants leaving a break between episodes to ponder things.
 I thoroughly recommend this series. It introduces you to the French DGSE (equivalent to Britain's MI6 or the CIA), following an agent who has returned from a life undercover.
 There is a lot of spycraft, some romance, and all in all it's very enjoyable. 
 My French is very rusty, so I rely on subtitles, but as with many foreign series, you don't notice after a while. And I find I like the sound of French even when I don't understand!
